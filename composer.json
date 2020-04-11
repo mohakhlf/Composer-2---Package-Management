@@ -1,0 +1,19 @@
+{
+    "name": "wcs/quest_compser",
+    "description": "Project quest composer",
+    "authors": [
+        {
+            "name": "Mohammed Khellafi",
+            "email": "mohakhellafi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+
+}
